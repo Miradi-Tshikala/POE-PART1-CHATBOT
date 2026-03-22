@@ -1,0 +1,14 @@
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.exe
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.deps.json
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.runtimeconfig.json
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.dll
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0-windows\CybersecurityChatbot.pdb
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.dll
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\refint\CybersecurityChatbot.dll
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.pdb
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\mimit\source\repos\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0-windows\ref\CybersecurityChatbot.dll
