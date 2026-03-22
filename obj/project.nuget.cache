@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRW/+5VNgz8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mimit\\source\\repos\\CyberSecurityBot\\CyberSecurityBot\\CyberSecurityBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mimit\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
