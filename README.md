@@ -1,84 +1,107 @@
-# POE-PART1-CHATBOT
-# Cybersecurity Awareness Chatbot
+##CyberBot V1
+Overview
+CyberBot V1 is the first version of a C# cybersecurity awareness chatbot developed as part of my Software Development studies.
 
-A C# console application that functions as a cybersecurity awareness chatbot, allowing users to engage in a simulated conversation about online safety practices.
+The project was created to explore the fundamentals of chatbot development, user interaction and cybersecurity awareness. The application allows users to interact with a chatbot through a simple interface and receive responses related to common cybersecurity topics.
+This version represents the initial foundation of the CyberBot project and was later expanded with additional functionality in subsequent versions.
 
----
+Purpose
+The main purpose of CyberBot V1 was to develop my understanding of:
 
-## Description
+* C# programming
+* Basic chatbot logic
+* User input processing
+* Conditional logic
+* Cybersecurity awareness
+* Application structure
+* Console/user interaction
+* Debugging and problem-solving
 
-This chatbot was developed as Part 1 of the PROG6221 Portfolio of Evidence (POE). It provides users with information on key cybersecurity topics through an interactive console interface. The application features a personalised greeting, coloured console output, ASCII art, and input validation to handle unexpected entries gracefully.
+Features
 
----
+* Interactive chatbot
+* User input
+* Automated chatbot responses
+* Cybersecurity-related responses
+* Keyword-based response handling
+* Basic conversational interaction
+* Simple user prompts
+* Cybersecurity awareness information
 
-## Features
+Technologies Used
 
-- ASCII art logo displayed on launch
-- Personalised greeting using the user's name
-- Responses to cybersecurity topics including:
-  - Password safety
-  - Phishing awareness
-  - Safe browsing
-- Input validation for empty or unrecognised inputs
-- Coloured console text for improved readability
-- Typing effect to simulate a conversational feel
-- Clean code structure using multiple classes
+* C#
+* .NET
+* Visual Studio
+* Git
+* GitHub
+* Object-Oriented Programming
 
+How It Works
 
-## How to Run
+The chatbot receives input from the user and processes the information to determine an appropriate response.
 
-### Requirements
-- Visual Studio 2022 or later
-- .NET 6.0 SDK (Windows)
+The basic interaction follows this process:
 
-### Steps
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/CybersecurityChatbot.git
-   ```
-2. Open the solution file in Visual Studio
-3. Press **Ctrl + F5** or click the green play button to run
+User Input
+    ↓
+Input Processing
+    ↓
+Keyword / Topic Identification
+    ↓
+Response Selection
+    ↓
+Chatbot Response
 
----
+The application uses predefined responses and logic to create a simple conversational experience.
 
-## How to Use
+Cybersecurity Topics
 
-1. The chatbot launches and displays the ASCII logo
-2. Enter your name when prompted
-3. Type any of the following to get a response:
-   - `password` - get password safety tips
-   - `phishing` - learn about phishing attacks
-   - `browsing` or `safe` - get safe browsing advice
-   - `how are you` - general conversation
-   - `what can I ask` - see available topics
-4. Type `exit` to quit the chatbot
+CyberBot V1 introduces users to basic cybersecurity awareness topics, including:
 
----
+* Password security
+* Online safety
+* Phishing awareness
+* Protecting personal information
+* Common cybersecurity risks
 
-## Example Interaction
+The chatbot is designed as an educational project rather than a replacement for professional cybersecurity advice.
 
-```
-Bot: Hello! What is your name?
-You: Miradi
-Bot: Nice to meet you, Miradi! I'm here to help you stay safe online.
-Bot: You can ask me about: passwords, phishing, safe browsing.
+What I Learned
+Developing the first version of CyberBot helped me build my foundation in C# application development.
 
-Miradi: password
-Bot: Use strong passwords with a mix of letters, numbers, and symbols.
-     Never reuse passwords across different sites.
-     Consider using a password manager like Bitwarden or LastPass!
+During this project, I learned about:
 
-Miradi: exit
-Bot: Goodbye, Miradi! Stay safe online!
+* Handling user input
+* Using conditional statements
+* Creating chatbot response logic
+* Working with strings and text
+* Structuring application logic
+* Debugging errors
+* Designing basic user interactions
+* Applying programming concepts to a practical project
 
-## Commit History
+The project also gave me a foundation that I could build on in later versions of CyberBot.
 
-This project was developed with a minimum of six meaningful commits:
+Future Improvements
 
-1. `Initial commit: Set up project structure and files`
-2. `Added ASCII logo and display class`
-3. `Added text greeting and user name input`
-4. `Added cybersecurity response system`
-5. `Added input validation`
-6. `Added enhanced console UI with colours and typing effect`
+The first version provided the foundation for further development.
 
+Potential improvements include:
+
+* Adding a graphical user interface
+* Expanding the cybersecurity knowledge base
+* Improving natural-language processing
+* Adding sentiment detection
+* Adding audio functionality
+* Creating more advanced conversation flows
+* Improving response accuracy
+* Adding additional cybersecurity topics
+
+Project Status
+Version 1 — Completed
+This version represents the initial development stage of CyberBot and serves as the foundation for later versions of the application.
+
+Author
+Miradi Tshikala Mputu
+Software Development Student
